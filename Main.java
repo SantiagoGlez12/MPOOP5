@@ -20,7 +20,7 @@ class Main {
     System.out.println(persona2);
 
 
-    System.out.println("+++++++++++Composicion2+++++++++++++");
+    System.out.println("+++++++++++ComposicionExtra+++++++++++++");
     Coche coche1 = new Coche();
     System.out.println(coche1);
     coche1.anio = 2021;
